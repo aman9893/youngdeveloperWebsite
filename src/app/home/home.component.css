@@ -1,0 +1,40 @@
+.classy_logo {
+    font-size: 30px;
+    font-weight: 500;
+    color: #9cfea8;
+    display: inline-block;
+    margin-right: 30px;
+    /* text-transform: capitalize; */
+}
+
+
+/* ///////////////////////vishnuu */
+
+.intro-reference-wrap {
+    text-align: center;
+    padding: 31px;
+}.content-title {
+    font-size: 26px;
+    line-height: 25px;
+    text-align: center;
+    font-weight: 700;
+    padding: 10px;
+    text-transform: uppercase;
+}
+.main-text {
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+    font-weight: 400;
+}
+
+
+/* ///
+ */
+ carousel-content {
+    color:black;
+    display:flex;
+    align-items:center;
+}
+
+

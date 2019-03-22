@@ -1,0 +1,11 @@
+.header-top .header-top-inner {
+    margin-bottom: 0px;
+    margin-top: 0px !important;
+    position: fixed !important;
+    background: #363742a6;
+    padding: 9px;
+}
+
+.closed{
+    cursor: pointer !important;
+}

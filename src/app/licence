@@ -1,0 +1,111 @@
+Licence: CC BY 3.0 (footer credits must remain in place)
+<!-- Features Area Start -->
+<section class="hami-features-area">
+  <div class="container">
+    <div class="row">
+      <!-- Section Heading -->
+      <div class="col-12">
+        <div class="section-heading text-center">
+          <h2> Features</h2>
+          <p>Bringing the offline hotel experience finally into the digital realm for the comfort of the guests..</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+
+      <!-- Single Feature Area -->
+      <div class="col-12 col-sm-6 col-lg-4" data-aos="fade-down">
+        <div class="single-feature-area d-flex mb-50">
+          <div class="feature-icon">
+            <i class="material-icons"> watch_later</i>
+          </div>
+          <div class="feature-text">
+            <h5>Instant Registration</h5>
+            <p>Instantly signup and store all your ID Proofs/Contact Details in one app available readily..</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Single Feature Area -->
+      <div data-aos="fade-left" class="col-12 col-sm-6 col-lg-4">
+        <div class="single-feature-area d-flex mb-50">
+          <div class="feature-icon">
+            <i class="material-icons"> commute</i>
+          </div>
+          <div class="feature-text">
+            <h5>
+              On-the-go Check Ins</h5>
+            <p>
+              On-the-go Check Ins
+              Guest can send all Check-In info before reaching Hotels and avoid queues at Reception.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Single Feature Area -->
+      <div data-aos="fade-left" class="col-12 col-sm-6 col-lg-4">
+        <div class="single-feature-area d-flex mb-50">
+          <div class="feature-icon">
+            <i class="material-icons"> touch_app</i>
+          </div>
+          <div class="feature-text">
+            <h5>Access Hotel Facilities in one tap</h5>
+            <p>
+              Access Hotel Facilities in one tap
+              Get Complete access to all of the Hotels Facilities on the tap. Like Food Ordering, Request for Room
+              cleaning, </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Single Feature Area -->
+      <div data-aos="fade-right" class="col-12 col-sm-6 col-lg-4">
+        <div class="single-feature-area d-flex mb-50">
+          <div class="feature-icon">
+            <i class="material-icons"> restaurant</i>
+          </div>
+          <div class="feature-text">
+            <h5>Add Friends & Family</h5>
+            <p>Guest Can Check-In Friends and their Companion in Hotels Room, So that they can also make use of the App.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Single Feature Area -->
+      <div data-aos="fade-right" class="col-12 col-sm-6 col-lg-4">
+        <div class="single-feature-area d-flex mb-50">
+          <div class="feature-icon">
+            <i class="material-icons"> restaurant_menu</i>
+          </div>
+          <div class="feature-text">
+            <h5>Protected</h5>
+            <p>Don't be distracted by criticism. Remember the only taste of success some people.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Single Feature Area -->
+      <div data-aos="fade-right" class="col-12 col-sm-6 col-lg-4">
+        <div class="single-feature-area d-flex mb-50">
+          <div class="feature-icon">
+            <i class="material-icons"> watch_later</i>
+          </div>
+          <div class="feature-text">
+            <h5>
+              True Feedback</h5>
+            <p>Don't be distracted by criticism. Remember the only taste of success some people.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Feature Pattern -->
+  <div class="feature-pattern">
+    <img src="../assets/welcome-pattern.png" alt="">
+  </div>
+</section>
