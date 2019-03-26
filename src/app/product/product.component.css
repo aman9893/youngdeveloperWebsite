@@ -1,0 +1,76 @@
+.file_sharing_contain {
+    width: 100%;
+    float: left;
+    background-color: #0a0a3c;
+    z-index: 1;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 670px;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+
+.img_overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url(https://iface.io/bg-image-for-site.7150f6e7f5f1de9e410c.png);
+    opacity: .5;
+    z-index: -1;
+}
+.icontact_wrapper{
+    background: darkred;
+}
+.wrapper_of_isuite {
+    padding-top: 130px;
+}
+
+.isuite_head_text_2 {
+    font-size: 4rem;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+.isuite_subheading_2 {
+    font-size: 2.4rem;
+    text-align: center;
+    color: #f3f3f3;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.imail_box_wrapper {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    z-index: 1;
+    position: relative;
+    width: 100%;
+    float: left;
+    background-color: #f5f5f5;
+}
+
+.isuite_head_text {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.isuite_subheading {
+    font-size: 2.4rem;
+    text-align: center;
+}
+
+.i_brand {
+    color: #24bf5a;
+}.wrapper_contact {
+    padding-top: 35px;
+}
+.drive_box_wrapper{
+    background: #4253a9;
+    color: white;
+}

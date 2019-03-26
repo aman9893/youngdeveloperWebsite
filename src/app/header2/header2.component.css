@@ -1,0 +1,5 @@
+.nav li.page-nav-only a:hover {
+    background-color: transparent;
+    color: #1affb6 !important;
+    border-bottom: 2px solid;
+}

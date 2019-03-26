@@ -10,6 +10,11 @@ import { TestimonialComponent } from './testimonial/testimonial.component';
 import { AboutusComponent } from './aboutus/aboutus.component';
 import { ContactComponent } from './contact/contact.component';
 import { Header2Component } from './header2/header2.component';
+import { FeaturesComponent } from './features/features.component';
+import { PORTFOLIOComponent } from './portfolio/portfolio.component';
+import { ProductComponent } from './product/product.component';
+import { HashLocationStrategy, LocationStrategy } from '@angular/common';
+import { FeaturesContainerComponent } from './features-container/features-container.component';
 
 @NgModule({
   declarations: [
@@ -20,13 +25,17 @@ import { Header2Component } from './header2/header2.component';
     TestimonialComponent,
     AboutusComponent,
     ContactComponent,
-    Header2Component
+    Header2Component,
+    FeaturesComponent,
+    PORTFOLIOComponent,
+    ProductComponent,
+    FeaturesContainerComponent
   ],
   imports: [
     BrowserModule,
     ROUTING
   ],
-  providers: [],
+  providers: [{provide: LocationStrategy, useClass: HashLocationStrategy}],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -7,13 +7,31 @@
     /* text-transform: capitalize; */
 }
 
+.knows-bubble {
+    display: table;
+    text-align: center;
+    width: 116px;
+    height: 116px;
+    background-color: #7bd486;
+    border-radius: 75px;
+    box-shadow: 0 0 60px 0 rgba(0, 255, 24, 0.37);
+}
 
+.section-dots, .section-dots-sm {
+    background-color: #7cd486;
+    border-radius: 75px;
+    box-shadow: 0 0 20px 0 #55555573;
+    z-index: 5;
+    position: relative;
+}
 /* ///////////////////////vishnuu */
 
 .intro-reference-wrap {
     text-align: center;
     padding: 31px;
-}.content-title {
+    border-bottom: 5px solid #7cd486;
+}
+.content-title {
     font-size: 26px;
     line-height: 25px;
     text-align: center;
@@ -28,6 +46,21 @@
     font-weight: 400;
 }
 
+.knows-bubble .knows-bubble-title {
+    line-height: 25px; 
+    color: #fff;
+    font-weight: 600;
+    font-size: 13px;
+}
+.problems-content-text {
+    color: #21217b;
+    line-height: 25px !important;
+    margin-top: 12px;
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 13px;
+    border-bottom: 5px solid #7cd486;
+}
 
 /* ///
  */
@@ -38,3 +71,21 @@
 }
 
 
+.about-container-wrap {
+    color: #9393a4;
+    padding-top: 0px;
+    padding: 7px;
+    /* margin: 20px; */
+    margin-bottom: 10px;
+}.about-container-wrap .intro-about-us-wrap {
+    text-align: center !important;
+    max-width: 800px;
+    margin: 35px auto 90px;
+    border-bottom: 5px solid #7cd486;
+}
+
+.section-features {
+    background-color: #fff;
+    overflow: hidden;
+     margin-bottom: 0px; 
+}

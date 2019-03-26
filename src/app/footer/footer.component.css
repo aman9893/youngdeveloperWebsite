@@ -11,3 +11,9 @@
     margin: 12px;
 }
 
+.footer-image {
+    position: relative;
+    width: 100%;
+    height: 507px;
+    margin-bottom: -20px;
+}
