@@ -15,6 +15,8 @@ import { PORTFOLIOComponent } from './portfolio/portfolio.component';
 import { ProductComponent } from './product/product.component';
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 import { FeaturesContainerComponent } from './features-container/features-container.component';
+import { TeamComponent } from './team/team.component';
+import { ProjectImagesComponent } from './project-images/project-images.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +31,9 @@ import { FeaturesContainerComponent } from './features-container/features-contai
     FeaturesComponent,
     PORTFOLIOComponent,
     ProductComponent,
-    FeaturesContainerComponent
+    FeaturesContainerComponent,
+    TeamComponent,
+    ProjectImagesComponent
   ],
   imports: [
     BrowserModule,

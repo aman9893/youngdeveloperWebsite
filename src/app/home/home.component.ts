@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-declare var $: any;
+
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
@@ -7,11 +7,7 @@ declare var $: any;
 })
 export class HomeComponent implements OnInit {
 
-  constructor() { }
-
-  ngOnInit() {
-
-
-  }
+  constructor() {    }
+  ngOnInit() {}
 
 }

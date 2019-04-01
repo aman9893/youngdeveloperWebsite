@@ -112,3 +112,8 @@
     color: #1affb6 !important;
     border-bottom: 2px solid;
 }
+
+.header-top .header-top-inner .brand img {
+    width: 53px;
+    height: 53px;
+}

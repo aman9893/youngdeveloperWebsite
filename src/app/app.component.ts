@@ -1,5 +1,6 @@
 import { Component, OnInit ,} from '@angular/core';
 import * as AOS from 'aos';
+declare var $: any;
 
 
 @Component({
@@ -10,10 +11,8 @@ import * as AOS from 'aos';
 export class AppComponent  implements OnInit {
   ngOnInit(){
    AOS.init();
-   
   }
   onActivate(event) {
     window.scroll(0,0);
-
 }
 }
